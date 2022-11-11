@@ -9,3 +9,9 @@
 
 ## Anticheat
 Buzz
+
+## AntiVPN
+Mediocre
+
+## Player Average
+1,500
